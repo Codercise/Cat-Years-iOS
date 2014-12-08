@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		017F172B1A35D34D00B4BEE8 /* o-CATS-KILL-BILLIONS-facebook.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 017F172A1A35D34D00B4BEE8 /* o-CATS-KILL-BILLIONS-facebook.jpg */; };
+		017F172D1A35D3FD00B4BEE8 /* inquisitive-cat300.png in Resources */ = {isa = PBXBuildFile; fileRef = 017F172C1A35D3FD00B4BEE8 /* inquisitive-cat300.png */; };
 		01EF53541A2B204E00A0C87C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01EF53531A2B204E00A0C87C /* AppDelegate.swift */; };
 		01EF53561A2B204E00A0C87C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01EF53551A2B204E00A0C87C /* ViewController.swift */; };
 		01EF53591A2B204E00A0C87C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 01EF53571A2B204E00A0C87C /* Main.storyboard */; };
@@ -26,6 +28,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		017F172A1A35D34D00B4BEE8 /* o-CATS-KILL-BILLIONS-facebook.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "o-CATS-KILL-BILLIONS-facebook.jpg"; path = "CiOS Ex1/Images.xcassets/o-CATS-KILL-BILLIONS-facebook.jpg"; sourceTree = "<group>"; };
+		017F172C1A35D3FD00B4BEE8 /* inquisitive-cat300.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "inquisitive-cat300.png"; sourceTree = "<group>"; };
 		01EF534E1A2B204E00A0C87C /* CiOS Ex1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CiOS Ex1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		01EF53521A2B204E00A0C87C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		01EF53531A2B204E00A0C87C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +63,8 @@
 		01EF53451A2B204E00A0C87C = {
 			isa = PBXGroup;
 			children = (
+				017F172A1A35D34D00B4BEE8 /* o-CATS-KILL-BILLIONS-facebook.jpg */,
+				017F172C1A35D3FD00B4BEE8 /* inquisitive-cat300.png */,
 				01EF53501A2B204E00A0C87C /* CiOS Ex1 */,
 				01EF53661A2B204F00A0C87C /* CiOS Ex1Tests */,
 				01EF534F1A2B204E00A0C87C /* Products */,
@@ -192,8 +198,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				017F172B1A35D34D00B4BEE8 /* o-CATS-KILL-BILLIONS-facebook.jpg in Resources */,
 				01EF53591A2B204E00A0C87C /* Main.storyboard in Resources */,
 				01EF535E1A2B204F00A0C87C /* LaunchScreen.xib in Resources */,
+				017F172D1A35D3FD00B4BEE8 /* inquisitive-cat300.png in Resources */,
 				01EF535B1A2B204F00A0C87C /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
